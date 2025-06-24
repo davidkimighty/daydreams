@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.davidkimighty.rayman": {
+      "version": "https://github.com/davidkimighty/Rayman.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "6aff790d6fcd3871964adb82a57242587f62a9fd"
+    },
     "com.unity.ai.navigation": {
       "version": "2.0.7",
       "depth": 0,
